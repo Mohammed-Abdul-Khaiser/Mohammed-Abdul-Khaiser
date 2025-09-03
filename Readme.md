@@ -1,11 +1,13 @@
 <!-- Mohammed Abdul Khaiser GitHub Profile README -->
+
 <!-- Banner with Photo -->
 <p align="center">
   <img src="https://github.com/Mohammed-Abdul-Khaiser/image/raw/main/Black%20and%20White%20Simple%20Manager%20LinkedIn%20Background%20Photo.png" alt="Banner" width="100%" />
 </p>
 
+<!-- Animated Intro Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&pause=1000&color=36BCF7&width=700&height=160&lines=Hi;MOHAMMED+ABDUL+KHAISER;Founder+%26+CEO+-+HITL+PVT+LTD;EdTech+Entrepreneur;Empowering+Student+Success+with+Technology;Internships+%26+Projects;IT+%26+Embedded+Trainer;Tech+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=26&pause=1000&color=36BCF7&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+MOHAMMED+ABDUL+KHAISER;FOUNDER+%26+CEO+-+HITL+PVT+LTD;EdTech+Entrepreneur;IT+%26+Embedded+Trainer+%7C+Tech+Mentor;Empowering+Student+Success+with+Technology;Support+with+Internships+%26+Projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,6 +17,19 @@
 I am the **Founder & CEO** of **HITL PVT LTD** and the **HITL Group of Companies**, passionately driving innovation in technical education and entrepreneurship.
 
 With strong expertise across Embedded Systems, IoT, Robotics, AI, and Data Analytics, I empower students and professionals through hands-on projects, internships, and tailored training programs. My goal is to bridge the gap between academia and industry by mentoring and providing real-world learning experiences.
+
+---
+
+### 🏆 Achievements
+
+- ![Reviewer](https://img.shields.io/badge/Reviewer-IJIRT-blue?style=flat-square&logo=researchgate&logoColor=white)  
+  Reviewer Recognition Certificate from **International Journal for Innovative Research in Technology (IJIRT)**
+
+- ![Award](https://img.shields.io/badge/Award-Magic_Book_of_Records-red?style=flat-square&logo=award&logoColor=white)  
+  Best Service Award from **Magic Book of Records**
+
+- ![Excellence](https://img.shields.io/badge/Excellence-Welred_Foundation-green?style=flat-square&logo=trophy&logoColor=white)  
+  National Excellence Achievement Award & Excellent Entrepreneur Contribution from **Welred Foundation**
 
 ---
 
