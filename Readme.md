@@ -1,4 +1,8 @@
 <!-- Mohammed Abdul Khaiser GitHub Profile README -->
+<!-- Banner with Photo -->
+<p align="center">
+  <img src="https://github.com/Mohammed-Abdul-Khaiser/image/raw/main/Black%20and%20White%20Simple%20Manager%20LinkedIn%20Background%20Photo.png" alt="Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&pause=1000&color=36BCF7&width=700&height=160&lines=Hi;MOHAMMED+ABDUL+KHAISER;Founder+%26+CEO+-+HITL+PVT+LTD;EdTech+Entrepreneur;Empowering+Student+Success+with+Technology;Internships+%26+Projects;IT+%26+Embedded+Trainer;Tech+Mentor" alt="Typing SVG" />
